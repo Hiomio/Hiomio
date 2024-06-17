@@ -1,5 +1,5 @@
 Kaluri Himabindhu: Aspiring Full Stack Web Developer and Problem-Solver
-About Me
+
 Hello! I'm Kaluri Himabindhu, a dedicated B.Tech student in Computer Science and Engineering at IIIT Bhagalpur. My journey through the dynamic field of technology has been thrilling, marked by continuous learning and exploration.
 
 Skills
@@ -10,10 +10,11 @@ Object-Oriented Programming (OOP)
 Database Management Systems (DBMS)
 SQL
 Operating Systems
+
 Projects
 I am currently immersed in a web development project, refining my skills and exploring new horizons in the vast landscape of web development.
 
-Competitive Programming
+
 Competitive programming is my passion, where I constantly challenge myself and sharpen my problem-solving skills. Here are some of my achievements:
 
 CodeChef: Achieved a maximum rating of 1801, tackling complex problems.
