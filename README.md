@@ -11,14 +11,17 @@ Database Management Systems (DBMS)
 SQL
 Operating Systems
 
-Projects
+Projects:
 I am currently immersed in a web development project, refining my skills and exploring new horizons in the vast landscape of web development.
 
 
 Competitive programming is my passion, where I constantly challenge myself and sharpen my problem-solving skills. Here are some of my achievements:
 
 CodeChef: Achieved a maximum rating of 1801, tackling complex problems.
+
 LeetCode: Reached a rating of 1775, solving over 1200 questions across various platforms.
+
 Let's Connect!
+
 Join me on this exciting journey as we dive deeper into the world of technology and innovative problem-solving. I am always open to collaboration on exciting projects.
 
