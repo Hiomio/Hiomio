@@ -17,7 +17,7 @@ I am currently immersed in a web development project, refining my skills and exp
 
 Competitive programming is my passion, where I constantly challenge myself and sharpen my problem-solving skills. Here are some of my achievements:
 
-CodeChef: Achieved a maximum rating of 1801, tackling complex problems.
+CodeChef: Achieved a maximum rating of 1560, tackling complex problems.
 
 LeetCode: Reached a rating of 1775, solving over 1200 questions across various platforms.
 
