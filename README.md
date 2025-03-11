@@ -10,7 +10,7 @@
 ### 🚀 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kaluri-himabindhu-9378b927a)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Hiomio)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome)](https://hiomio.github.io/Protofolio/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome)](https://react-portfolio-framer-motion-ivory.vercel.app/))  
 
 ---
 
