@@ -47,4 +47,4 @@
 
 ---
 
-⭐️ **Feel free to check out my work and connect with me!** 😎  
+⭐️ **Feel free to check out my work and connect with me!** 
