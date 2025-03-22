@@ -5,6 +5,8 @@
 💬 **Ask me about Competitive Programming, DSA, and Web Development**  
 📫 **How to reach me:** blessykaluri@gmail.com  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Hiomio&color=blue)
+
 ---
 
 ### 🚀 Connect with me:  
@@ -42,9 +44,9 @@
 ---
 
 ### 💡 Recent Projects:  
-- 🌟 **Echo Basket** – A shopping app designed using React, Node.js, Redux, and Firebase
+- 🌟 **Echo Basket** – A shopping app designed using React, Node.js, Redux, and Firebase  
 - 🌟 **Food Delivery App** – A real-time food delivery tracking app using React , Node Js  
 
 ---
 
-⭐️ **Feel free to check out my work and connect with me!** 
+⭐️ **Feel free to check out my work and connect with me!**  
