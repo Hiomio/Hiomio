@@ -1,51 +1,52 @@
-# 👋 Hi, I'm Kaluri Himabindhu!  
+# 👋 Hi, I'm **Kaluri Himabindhu**!  
+<div align="center">  
+<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200px">  
+</div>  
 
-🌱 **I’m currently learning Full Stack Development, Three.js, and Next.js**  
-👨‍💻 **All of my projects are available at** [My Portfolio](https://react-portfolio-framer-motion-ivory.vercel.app/)  
-💬 **Ask me about Competitive Programming, DSA, and Web Development**  
-📫 **How to reach me:** blessykaluri@gmail.com  
+🌱 **Currently learning:** Full Stack Development, Three.js, and Next.js  
+👨‍💻 **All of my projects are available at:** [**My Portfolio**](https://react-portfolio-framer-motion-ivory.vercel.app/)  
+💬 **Ask me about:** Competitive Programming, DSA, and Web Development  
+📫 **Reach me at:** blessykaluri@gmail.com  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hiomio&color=blue)
-
----
-
-### 🚀 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kaluri-himabindhu-9378b927a)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Hiomio)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome)](https://react-portfolio-framer-motion-ivory.vercel.app/) 
+![Profile Views](https://komarev.com/ghpvc/?username=Hiomio&color=blue&style=flat)  
 
 ---
 
-### 🛠️ Languages and Tools:  
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
+## 🚀 **Connect with Me**  
+<p align="center">  
+<a href="https://linkedin.com/in/kaluri-himabindhu-9378b927a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>  
+<a href="https://github.com/Hiomio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>  
+<a href="https://react-portfolio-framer-motion-ivory.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome"></a>  
+</p>  
 
 ---
 
-### 📊 GitHub Stats:  
-![Himabindhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical)  
+## 🛠️ **Skills & Tools**  
+<p align="center">  
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,threejs,nodejs,express,mongodb,mysql,redux,tailwind,git,postman,vscode" />  
+</p>  
 
 ---
 
-### 💡 Recent Projects:  
-- 🌟 **Echo Basket** – A shopping app designed using React, Node.js, Redux, and Firebase  
-- 🌟 **Food Delivery App** – A real-time food delivery tracking app using React , Node Js  
+## 📊 **GitHub Stats**  
+<div align="center">  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&count_private=true" />  
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical" />  
+</div>  
+
+---
+
+## 💡 **Recent Projects**  
+### 🌟 [Echo Basket](https://github.com/Hiomio/echo-basket)  
+➡️ A shopping app designed using **React**, **Node.js**, **Redux**, and **Firebase** with real-time updates and intuitive UI.  
+
+### 🌟 [Food Delivery App](https://github.com/Hiomio/food-delivery-app)  
+➡️ A real-time food delivery tracking app using **React** and **Node.js** with live order status updates.  
+
+---
+
+## 🎯 **Fun Fact**  
+> 🚀 I love solving complex problems and am passionate about building innovative web apps!  
 
 ---
 
