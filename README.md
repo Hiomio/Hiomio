@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Kaluri Himabindhu**!  
 <div align="center">  
-<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200px">  
+<img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW1C/giphy.gif" width="200px" alt="Formal Girl Animation">  
 </div>  
 
 🌱 **Currently learning:** Full Stack Development, Three.js, and Next.js  
