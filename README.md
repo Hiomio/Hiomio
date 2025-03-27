@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Kaluri Himabindhu**!  
+
 # 👋 Hi, I'm **Kaluri Himabindhu**!  
 <div align="center">  
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px" alt="Formal Girl Animation">  
