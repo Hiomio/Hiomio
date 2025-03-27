@@ -1,7 +1,9 @@
 # 👋 Hi, I'm **Kaluri Himabindhu**!  
+# 👋 Hi, I'm **Kaluri Himabindhu**!  
 <div align="center">  
-<img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW1C/giphy.gif" width="200px" alt="Formal Girl Animation">  
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px" alt="Formal Girl Animation">  
 </div>  
+
 
 🌱 **Currently learning:** Full Stack Development, Three.js, and Next.js  
 👨‍💻 **All of my projects are available at:** [**My Portfolio**](https://react-portfolio-framer-motion-ivory.vercel.app/)  
