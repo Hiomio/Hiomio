@@ -7,6 +7,7 @@
 
 🌱 **Currently learning:** Full Stack Development, React Native, and Next.js  
 💬 **Ask me about:** Competitive Programming, DSA, and Web Development  
+🛠️ **Explore my work:** Check out all my projects on my [📂 Portfolio](https://react-portfolio-framer-motion-ivory.vercel.app/)  
 📫 **Reach me at:** blessykaluri@gmail.com  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hiomio&color=blue&style=flat)  
@@ -17,7 +18,7 @@
 <p align="center">  
 <a href="https://linkedin.com/in/kaluri-himabindhu-9378b927a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>  
 <a href="https://github.com/Hiomio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>  
-
+<a href="https://react-portfolio-framer-motion-ivory.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-green?style=flat&logo=google-chrome"></a>
 </p>  
 
 ---
