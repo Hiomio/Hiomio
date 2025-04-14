@@ -1,7 +1,63 @@
 <h1 align="center">Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="280" alt="Girl Coding Gif" />
+# 👋 Hey there, I'm **Kaluri Himabindhu**!
+<img src="https://media.tenor.com/jRAoQU9zONMAAAAC/anime-girl.gif" width="300px" alt="Cute Anime Girl Coding GIF">
+
+<div align="center">
+</div>
+
+<p align="center">
+  💻 Full Stack Developer | 🧠 DSA Enthusiast | 🎯 Problem Solver  
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hiomio&color=blue&style=flat" alt="Profile Views">
+</div>
+
+---
+
+### 🌱 Currently Learning  
+- Full Stack Development  
+- React Native  
+- Next.js  
+
+### 💬 Ask Me About  
+- Competitive Programming  
+- Data Structures & Algorithms  
+- Frontend & Backend Web Development  
+
+### 📫 Reach Me At  
+- ✉️ blessykaluri@gmail.com  
+- 🔗 [Portfolio Website](https://react-portfolio-framer-motion-ivory.vercel.app/)
+
+---
+
+## 🧩 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hiomio&theme=algolia&no-frame=true&no-bg=true&margin-w=20&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks & Stats
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+
 </p>
 
 <p align="center">
