@@ -2,7 +2,8 @@
 
 <p align="center">
 
-<img src="https://media.tenor.com/jRAoQU9zONMAAAAC/anime-girl.gif" width="300px" alt="Cute Anime Girl Coding GIF">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" alt="Pixel Girl Coding GIF">
+
 
 <div align="center">
 </div>
