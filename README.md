@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span>! 👋</h1>
 
 <p align="center">
-# 👋 Hey there, I'm **Kaluri Himabindhu**!
+
 <img src="https://media.tenor.com/jRAoQU9zONMAAAAC/anime-girl.gif" width="300px" alt="Cute Anime Girl Coding GIF">
 
 <div align="center">
