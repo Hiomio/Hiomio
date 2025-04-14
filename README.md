@@ -1,5 +1,6 @@
 # 👋 Hey there, I'm **Kaluri Himabindhu**!
-<img src="https://previews.123rf.com/images/virtosmedia/virtosmedia1909/virtosmedia190900001/128287393-pixel-art-girl-with-laptop-8-bit-retro-video-game-character.jpg" width="300px" alt="Pixel Girl Coding">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" alt="Pixel Girl Coding GIF">
+
 
 
 <div align="center">
