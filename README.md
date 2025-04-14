@@ -1,12 +1,16 @@
 # 👋 Hey there, I'm **Kaluri Himabindhu**!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px" alt="Formal Girl Animation">
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="200px" alt="Girly Cute GIF">
 </div>
 
 <p align="center">
   💻 Full Stack Developer | 🧠 DSA Enthusiast | 🎯 Problem Solver  
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hiomio&color=blue&style=flat" alt="Profile Views">
+</div>
 
 ---
 
@@ -60,13 +64,11 @@
 ### 🌟 [Echo Basket](https://github.com/Hiomio/echo-basket)
 🛒 A shopping app built with **React**, **Node.js**, **Firebase**, and **Redux** — featuring real-time updates and smooth UX.
 
+### 🌟 [BlogSphere](https://github.com/Hiomio/Full_Stack_Blog_App)
+📝 A full-featured blog platform built using **MERN Stack** where users can **write, edit, and explore** blogs in a beautiful interface.
+
 ### 🌟 [Food Delivery App](https://github.com/Hiomio/food-delivery-app)
 🍕 A real-time food delivery tracking app with **live order status** using **React** & **Node.js**.
-
----
-
-## 🎯 Fun Fact  
-> 💡 I don't just build apps—I build experiences. Passionate about solving real-world problems through code!
 
 ---
 
@@ -80,6 +82,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hiomio&color=blue&style=flat" alt="Profile Views">
-</div>
+## 🎯 Fun Fact  
+> 💡 I don't just build apps—I build experiences. Passionate about solving real-world problems through code!
+
+---
