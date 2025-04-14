@@ -1,7 +1,8 @@
 # 👋 Hey there, I'm **Kaluri Himabindhu**!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200px" alt="Passionate Girl Programmer GIF">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300px" alt="Girl Coding GIF">
+
 
 </div>
 
