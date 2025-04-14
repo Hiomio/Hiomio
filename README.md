@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="280" alt="Girl Coding Gif" />
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="340" alt="Girl Coding Gif" />
 </p>
 
 <p align="center">
