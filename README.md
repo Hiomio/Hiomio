@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm **Kaluri Himabindhu**!
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px" alt="Girl Coding Pixel Art">
 
 
 
