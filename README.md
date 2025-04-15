@@ -65,10 +65,10 @@
 
 ## 🚧 Recent Projects
 
-### 🌟 [Echo Basket](https://github.com/Hiomio/echo-basket)  
+### 🌟 [Echo Basket](https://echo-basket.vercel.app/)  
 🛒 A shopping app built with **React**, **Node.js**, **Firebase**, and **Redux** — featuring real-time updates and smooth UX.
 
-### 🌟 [BlogSphere](https://github.com/Hiomio/Full_Stack_Blog_App)  
+### 🌟 [BlogSphere](https://blog-chi-three-26.vercel.app/)  
 📝 A full-featured blog platform built using **MERN Stack** where users can **write, edit, and explore** blogs in a beautiful interface.
 
 ### 🌟 [Food Delivery App](https://github.com/Hiomio/food-delivery-app)  
