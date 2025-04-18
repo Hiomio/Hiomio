@@ -1,12 +1,13 @@
 <h1 align="center">👩‍💻 Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span>!</h1>
 
 <div align="center">
+  <!-- Add your image here -->
+  <img src="screenshots/ChatGPT Image Apr 18, 2025, 01_11_24 PM.png" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=DSA+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hiomio&color=blueviolet&style=for-the-badge" alt="Profile Views" />
