@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <span style="color: #FF69B4;">Kaluri Himabindhu</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-link-here" width="200" style="border-radius: 50%;" alt="Kaluri Himabindhu Profile Pic" />
+  <img src="https://github.com/Hiomio/Hiomio/blob/main/screenshots/ChatGPT%20Image%20Apr%2018%2C%202025%2C%2001_11_24%20PM.png" width="200" style="border-radius: 50%;" alt="Kaluri Himabindhu Profile Pic" />
 </p>
 
 <p align="center">
