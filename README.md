@@ -12,9 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Hiomio&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+
 
 ---
 
