@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Add your image here -->
-  <img src="screenshots/ChatGPT Image Apr 18, 2025, 01_11_24 PM.png" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <img src="screenshots/ChatGPT Image Apr 18, 2025, 01_11_24 PM.png" alt="Profile Image" style="border-radius: 50%; width: 250px; height: 250px;" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
   <br>
