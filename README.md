@@ -13,16 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=Hiomio&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-
-
-<div align="center">
-  <h2>🚀 About Me</h2>
-</div>
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,redux,tailwind,threejs,git,postman,vscode" />
 </div>
-
 
 <div align="center">
   <h2>🌱 Currently Exploring</h2>
@@ -32,6 +26,16 @@
   <img src="https://img.shields.io/badge/Full%20Stack-Development-FF69B4?style=for-the-badge" alt="Full Stack" />
   <img src="https://img.shields.io/badge/React-Native-61DAFB?style=for-the-badge&logo=react" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js+Tailwind-Magic-black?style=for-the-badge&logo=next.js" alt="Next.js" />  
+</p>
+
+<div align="center">
+  <h2>💬 Ask Me About</h2>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Competitive%20Programming-00BFFF?style=for-the-badge&logo=codeforces" alt="Competitive Programming" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-32CD32?style=for-the-badge&logo=geeksforgeeks" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Dev%20(MERN)-FF6347?style=for-the-badge&logo=react" alt="Full Stack Web Dev (MERN)" />
 </p>
 
 <div align="center">
@@ -57,10 +61,9 @@
 
 <p align="center">
   <a href="https://github.com/Hiomio">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiomio&bg_color=1a1b27&color=ff69b4&line=9645f4&point=ffffff&area=true&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiomio&bg_color=1a1b27&color=ff69b4&line=9645f4&point=ffffff&area=true&hide_border=true" width="100%" />
   </a>
 </p>
-
 
 <div align="center">
   <h2>🚧 Featured Projects</h2>
@@ -111,7 +114,6 @@
     <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
-
 
 <div align="center">
   <h2>✨ Fun Fact</h2>
