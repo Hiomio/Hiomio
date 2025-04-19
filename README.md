@@ -110,9 +110,7 @@
   <a href="https://github.com/Hiomio" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://react-portfolio-framer-motion-ivory.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
+
 </p>
 
 <div align="center">
