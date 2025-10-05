@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Enthusiast;Problem+Solver+%7C+DSA+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Curious+Learner+%7C+Passionate+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,10 @@
 ### 🧠 About Me  
 
 <p align="center">
-I'm a passionate <b>Full Stack Developer</b> and <b>Problem Solver</b> from India 🇮🇳, currently pursuing B.Tech in Computer Science at <b>IIIT Bhagalpur</b>.  
-I love transforming ideas into elegant web experiences that are fast, interactive, and visually stunning.  
+🎓 <b>CSE Graduate (2025)</b> from <b>Indian Institute of Information Technology, Bhagalpur</b>.  
+💻 A <b>Full Stack Developer</b> who enjoys building fast, modern, and user-focused web applications.  
+🚀 A <b>Problem Solver</b> with a passion for continuous learning, clean code, and creative solutions.  
+🌱 Always exploring new technologies and growing as a <b>Curious Learner</b>.  
 </p>
 
 ---
@@ -77,7 +79,7 @@ Smooth CRUD operations and a beautiful, responsive UI.
   
 #### 🎯 [DSA Progress Tracker](https://leetcode.com/u/Rosie_posie/)
 Problem-Solving Profile  
-500+ problems solved across **LeetCode**, **CodeChef**, and **GFG** — improving daily logic and optimization skills.  
+500+ problems solved across **LeetCode**, **CodeChef**, and **GFG** — improving logic, patterns, and performance.  
 <br><br>
 <a href="https://leetcode.com/u/Rosie_posie/">
 <img src="https://img.shields.io/badge/View%20Profile-FFA500?style=for-the-badge&logo=leetcode"/>
@@ -126,8 +128,8 @@ Problem-Solving Profile
 ### ✨ Fun Fact  
 
 <p align="center">
-<i>"I don't just code — I design seamless digital experiences."</i><br>
-Turning ideas into <b>interactive realities</b> is my favorite kind of magic ✨
+<i>"I don't just code — I create experiences that connect users and ideas."</i><br>
+Building with purpose, learning with curiosity, and improving every single day 🚀
 </p>
 
 <p align="center">
