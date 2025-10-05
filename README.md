@@ -1,7 +1,6 @@
 <h1 align="center">👩‍💻 Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span>!</h1>
 
 <div align="center">
-  <!-- Add your image here -->
   <img src="screenshots/ChatGPT Image Apr 18, 2025, 01_11_24 PM.png" alt="Profile Image" style="border-radius: 50%; width: 250px; height: 250px;" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" />
@@ -24,8 +23,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Development-FF69B4?style=for-the-badge" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=for-the-badge&logo=react" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js+Tailwind-Magic-black?style=for-the-badge&logo=next.js" alt="Next.js" />  
+  <img src="https://img.shields.io/badge/AI%20Integration-Vapi%20AI%20%7C%20Gemini-6B47FF?style=for-the-badge" alt="AI Tools" />
 </p>
 
 <div align="center">
@@ -34,8 +33,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Competitive%20Programming-00BFFF?style=for-the-badge&logo=codeforces" alt="Competitive Programming" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-32CD32?style=for-the-badge&logo=geeksforgeeks" alt="Data Structures & Algorithms" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Dev%20(MERN)-FF6347?style=for-the-badge&logo=react" alt="Full Stack Web Dev (MERN)" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-32CD32?style=for-the-badge&logo=geeksforgeeks" alt="DSA" />
+  <img src="https://img.shields.io/badge/MERN%20Stack%20Development-FF6347?style=for-the-badge&logo=react" alt="MERN Stack" />
 </p>
 
 <div align="center">
@@ -69,28 +68,37 @@
   <h2>🚧 Featured Projects</h2>
 </div>
 
+<!-- PrepByAi -->
 <p align="center">
-  <a href="https://echo-basket.vercel.app/">
-    <img src="https://img.shields.io/badge/Echo%20Basket-Shopping%20App-FF6B6B?style=for-the-badge" alt="Echo Basket" />
+  <a href="https://prepby-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/PrepByAi-AI%20Interview%20Platform-FF69B4?style=for-the-badge" alt="PrepByAi" />
   </a>
   <br><br>
-  🛒 A shopping app built with <b>React</b>, <b>Node.js</b>, <b>Firebase</b>, and <b>Redux</b> — featuring real-time updates and smooth UX.
+  🤖 AI-powered interview platform using <b>Vapi AI</b> & <b>Google Gemini</b> with mock voice interviews, Firebase auth, and live speech-to-text analytics.  
+  <br>
+  <a href="https://github.com/Hiomio/PrepByAi">🔗 Source Code</a>
 </p>
 
+<!-- BuyHive -->
+<p align="center">
+  <a href="https://buyhub-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/BuyHive-E--Commerce%20Platform-6B47FF?style=for-the-badge" alt="BuyHive" />
+  </a>
+  <br><br>
+  🛍️ Full-stack e-commerce app built with <b>React</b>, <b>Node.js</b>, <b>MongoDB</b>, and <b>Express</b> featuring secure auth, scalable APIs, and faster checkout.  
+  <br>
+  <a href="https://github.com/Hiomio/EcommerceWebsite">🔗 Source Code</a>
+</p>
+
+<!-- BlogSphere -->
 <p align="center">
   <a href="https://blog-chi-three-26.vercel.app/">
-    <img src="https://img.shields.io/badge/BlogSphere-Blogging%20Platform-6B47FF?style=for-the-badge" alt="BlogSphere" />
+    <img src="https://img.shields.io/badge/BlogSphere-Blogging%20Platform-4CBB17?style=for-the-badge" alt="BlogSphere" />
   </a>
   <br><br>
-  📝 A full-featured blog platform built using <b>MERN Stack</b> where users can <b>write, edit, and explore</b> blogs in a beautiful interface.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Hiomio/Food_Delivery_App">
-    <img src="https://img.shields.io/badge/Food%20Delivery-Real--time%20Tracking-4CBB17?style=for-the-badge" alt="Food Delivery App" />
-  </a>
-  <br><br>
-  🍕 A real-time food delivery tracking app with <b>live order status</b> using <b>React</b> & <b>Node.js</b>.
+  📝 MERN-based blogging platform where users can <b>write, edit, and explore</b> blogs with real-time updates and Firebase authentication.  
+  <br>
+  <a href="https://github.com/Hiomio/BlogApp">🔗 Source Code</a>
 </p>
 
 <div align="center">
@@ -110,7 +118,6 @@
   <a href="https://github.com/Hiomio" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
 </p>
 
 <div align="center">
