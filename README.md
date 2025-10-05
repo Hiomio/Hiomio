@@ -15,11 +15,17 @@
 ### 🧠 About Me  
 
 <p align="center">
-🎓 <b>CSE Graduate (2025)</b> from <b>Indian Institute of Information Technology, Bhagalpur</b>.  
-💻 A <b>Full Stack Developer</b> who enjoys building fast, modern, and user-focused web applications.  
-🚀 A <b>Problem Solver</b> with a passion for continuous learning, clean code, and creative solutions.  
-🌱 Always exploring new technologies and growing as a <b>Curious Learner</b>.  
+
+💻 <b>Full Stack Developer</b> passionate about building dynamic and user-friendly web applications. <br>  
+🎓 <b>CSE Graduate (2025)</b> from <b>Indian Institute of Information Technology, Bhagalpur</b>. <br>  
+⚡ Skilled in <b>MERN stack</b> and experienced in creating scalable and production-ready apps. <br>  
+🧩 A <b>Problem Solver</b> who loves tackling challenging algorithms and real-world problems. <br>  
+🚀 Constantly exploring new tools, frameworks, and best practices in modern web development. <br>  
+🌱 A <b>Curious Learner</b> who believes in continuous growth and learning by building. <br>  
+🎯 Striving to blend creativity with logic to craft seamless digital experiences.  
+
 </p>
+
 
 ---
 
