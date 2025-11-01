@@ -26,7 +26,6 @@
 
 </p>
 
-
 ---
 
 ### ⚙️ Tech Stack & Tools  
@@ -102,6 +101,11 @@ Problem-Solving Profile
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=true" />
+</p>
+
+<!-- 🌟 Added Current Streak Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Current_Streak-25_Days-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak Badge"/>
 </p>
 
 <p align="center">
