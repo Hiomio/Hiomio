@@ -100,9 +100,16 @@ Problem-Solving Profile
 ### 📊 GitHub Highlights  
 
 <p align="center">
-  <b>🔥 Current GitHub Streak</b><br>
-  <img src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=tokyonight&hide_border=true" alt="Hiomio's GitHub Streak" />
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=tokyonight&hide_border=true" alt="Hiomio's GitHub Stats" />
+</p>
+
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&count_private=true&hide_border=true" />
