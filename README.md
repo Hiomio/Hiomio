@@ -100,12 +100,8 @@ Problem-Solving Profile
 ### 📊 GitHub Highlights  
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=true" />
-</p>
-
-<!-- 🌟 Added Current Streak Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-25_Days-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak Badge"/>
+  <b>🔥 Current GitHub Streak</b><br>
+  <img src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
