@@ -105,8 +105,23 @@ Problem-Solving Profile
 </p>
 
 <p align="center">
+  <!-- Current Streak Text -->
+  <b>🔥 Current Streak:</b> 
+  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=tokyonight&hide_border=true&label=Current%20Streak&query=currentStreak&suffix=%20days&style=for-the-badge&color=ff69b4" alt="Current Streak"/>
+</p>
+
+<p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=tokyonight&hide_border=true" alt="Hiomio's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiomio&bg_color=1a1b27&color=ff69b4&line=9645f4&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 
