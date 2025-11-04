@@ -99,6 +99,10 @@ Problem-Solving Profile
 
 ### 📊 GitHub Highlights  
 
+---
+
+### 📊 GitHub Highlights  
+
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=tokyonight&hide_border=true" alt="Hiomio's GitHub Streak" />
@@ -106,8 +110,7 @@ Problem-Solving Profile
 
 <p align="center">
   <!-- Current Streak Text -->
-  <b>🔥 Current Streak:</b> 
-  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=tokyonight&hide_border=true&label=Current%20Streak&query=currentStreak&suffix=%20days&style=for-the-badge&color=ff69b4" alt="Current Streak"/>
+  <b>🔥 Current Streak:</b> Check your live streak count on the graph above!
 </p>
 
 <p align="center">
