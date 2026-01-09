@@ -20,7 +20,7 @@
 I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, passionate about building **scalable, production-ready web and mobile applications**.
 
 * 💡 Strong foundation in **MERN Stack, Next.js, and React Native**
-* 🧠 Solved **500+ DSA problems** across LeetCode, CodeChef & GFG
+* 🧠 Solved **1000+ DSA problems** across LeetCode, CodeChef & GFG
 * ⚡ Enjoy turning complex problems into clean, user-friendly solutions
 * 🚀 Currently exploring **AI-powered applications** and **system scalability**
 
@@ -98,9 +98,9 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 
 ## 📊 GitHub & DSA Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username\&show_icons=true\&theme=radical\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiomio\&show_icons=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username\&layout=compact\&theme=radical\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio\&layout=compact\&theme=radical\&hide_border=true)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark\&font=source_code_pro\&ext=heatmap)](https://leetcode.com/Rosie_posie/)
 
