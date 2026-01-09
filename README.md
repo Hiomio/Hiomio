@@ -1,149 +1,222 @@
-<!-- 🌸 Modern GitHub README by Kaluri Himabindhu -->
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#FF69B4;">Kaluri Himabindhu</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Curious+Learner+%7C+Passionate+Builder" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hiomio&color=9D36F7&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-### 🧠 About Me  
-
-<p align="center">
-
-💻 <b>Full Stack Developer</b> passionate about building dynamic and user-friendly web applications. <br>  
-🎓 <b>CSE Graduate (2025)</b> from <b>Indian Institute of Information Technology, Bhagalpur</b>. <br>  
-⚡ Skilled in <b>MERN stack</b> and experienced in creating scalable and production-ready apps. <br>  
-🧩 A <b>Problem Solver</b> who loves tackling challenging algorithms and real-world problems. <br>  
-🚀 Constantly exploring new tools, frameworks, and best practices in modern web development. <br>  
-🌱 A <b>Curious Learner</b> who believes in continuous growth and learning by building. <br>  
-🎯 Striving to blend creativity with logic to craft seamless digital experiences.  
-
-</p>
-
----
-
-### ⚙️ Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,firebase,redux,js,ts,c,cpp,html,css,git,github,vscode,postman" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
   
-#### 🌟 [PrepByAi](https://prepby-ai.vercel.app/)
-AI-Powered Interview Platform  
-Built with **Next.js**, **Vapi AI**, **Firebase**, **Google Gemini**, **TailwindCSS**, and **Zod**.  
-Real-time transcription, voice mock interviews, and AI-based performance analytics.  
-<br><br>
-<a href="https://github.com/Hiomio/PrepByAi">
-<img src="https://img.shields.io/badge/🔗%20Source%20Code-FF69B4?style=for-the-badge&logo=github"/>
-</a>
-</td>
+# 👋 Hey there, I'm Kaluri Himabindhu
 
-<td align="center" width="50%">
-  
-#### 🛒 [BuyHive](https://buyhub-pi.vercel.app/)
-Full-Stack E-Commerce Platform  
-Powered by **React**, **Node.js**, **Express**, and **MongoDB**.  
-JWT authentication, secure Razorpay payments, and real-time cart updates.  
-<br><br>
-<a href="https://github.com/Hiomio/EcommerceWebsite">
-<img src="https://img.shields.io/badge/🔗%20Source%20Code-6B47FF?style=for-the-badge&logo=github"/>
-</a>
-</td>
-</tr>
+### 💻 Full Stack Developer | 🎓 CSE Graduate | 🚀 MERN Stack Enthusiast
 
-<tr>
-<td align="center" width="50%">
-  
-#### 📝 [BlogSphere](https://blog-chi-three-26.vercel.app/)
-MERN Blogging Platform  
-Users can **write, edit, and explore** blogs with **Firebase authentication** and **Redux** state management.  
-Smooth CRUD operations and a beautiful, responsive UI.  
-<br><br>
-<a href="https://github.com/Hiomio/BlogApp">
-<img src="https://img.shields.io/badge/🔗%20Source%20Code-32CD32?style=for-the-badge&logo=github"/>
-</a>
-</td>
-
-<td align="center" width="50%">
-  
-#### 🎯 [DSA Progress Tracker](https://leetcode.com/u/Rosie_posie/)
-Problem-Solving Profile  
-500+ problems solved across **LeetCode**, **CodeChef**, and **GFG** — improving logic, patterns, and performance.  
-<br><br>
-<a href="https://leetcode.com/u/Rosie_posie/">
-<img src="https://img.shields.io/badge/View%20Profile-FFA500?style=for-the-badge&logo=leetcode"/>
-</a>
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](your-codeforces-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessykaluri@gmail.com)
 
 </div>
 
 ---
 
-### 📊 GitHub Highlights  
-<p align="center">
-  <!-- GitHub Stats with All Contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hiomio's GitHub Stats" />
-</p>
+## 🧠 About Me
+```typescript
+const himabindhu = {
+    education: "B.Tech CSE | IIIT Bhagalpur (2025)",
+    passion: "Building dynamic and user-friendly web applications",
+    expertise: ["Full Stack Development", "MERN Stack", "React Native"],
+    mindset: "Problem Solver + Curious Learner + Creative Builder",
+    currentFocus: "Exploring AI integration & scalable architectures",
+    philosophy: "Blending creativity with logic to craft seamless digital experiences"
+};
+```
 
-<p align="center">
-  <!-- Contribution Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=tokyonight&hide_border=true" />
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical&hide_border=true&count_private=true" />
-</p>
-
-
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiomio&bg_color=1a1b27&color=ff69b4&line=9645f4&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-
+🎯 **500+ DSA Problems Solved** across LeetCode, CodeChef, and GeeksforGeeks  
+⚡ Passionate about creating **production-ready**, **scalable** applications  
+🌱 Continuously learning new tools, frameworks, and best practices  
+🚀 Striving to build experiences that connect users and ideas
 
 ---
 
-### 📬 Connect With Me  
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="mailto:blessykaluri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blessykaluri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/kaluri-himabindhu-9378b927a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaluri%20Himabindhu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hiomio" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Hiomio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **AI & APIs**
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### ✨ Fun Fact  
+## 🚀 Featured Projects
 
-<p align="center">
-<i>"I don't just code — I create experiences that connect users and ideas."</i><br>
-Building with purpose, learning with curiosity, and improving every single day 🚀
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+### 🌟 [PrepByAi](https://prepby-ai.vercel.app/)
+**AI-Powered Interview Platform**
+
+</div>
+
+Built with **Next.js**, **Vapi AI**, **Firebase**, **Google Gemini**, **TailwindCSS**, and **Zod**
+
+- 🎙️ Real-time voice transcription and AI-based mock interviews
+- 📊 Performance analytics with detailed feedback
+- 🔐 Secure authentication and user progress tracking
+- ⚡ Seamless UI/UX with responsive design
+
+---
+
+<div align="center">
+
+### 🛒 [BuyHive](https://buyhub-pi.vercel.app/)
+**Full-Stack E-Commerce Platform**
+
+</div>
+
+Powered by **React**, **Node.js**, **Express**, and **MongoDB**
+
+- 🔒 JWT-based authentication and authorization
+- 💳 Secure Razorpay payment integration
+- 🛍️ Real-time cart updates and order management
+- 📦 Admin dashboard for product and inventory management
+
+---
+
+<div align="center">
+
+### 📝 [BlogSphere](https://blog-chi-three-26.vercel.app/)
+**MERN Blogging Platform**
+
+</div>
+
+Built with **MongoDB**, **Express**, **React**, and **Node.js**
+
+- ✍️ Write, edit, and explore blogs with rich text editor
+- 🔥 Firebase authentication integration
+- 🎨 Redux state management for seamless data flow
+- 📱 Responsive design with smooth CRUD operations
+
+---
+
+<div align="center">
+
+### 🎬 [FilmGalaxy](https://filmgalaxy.onrender.com/)
+**Movie Discovery Platform**
+
+</div>
+
+Full **MERN stack** application with **TMDb API** integration
+
+- 🔍 Real-time movie search and filtering
+- ⭐ User reviews and ratings system
+- 🎯 Personalized movie recommendations
+- 📊 Trending and popular movie sections
+
+---
+
+<div align="center">
+
+### 💼 [JobHub](https://jobhub22571.netlify.app/login)
+**Job Portal Application**
+
+</div>
+
+Complete job listing platform using **React**, **Node.js**, **Express**, **MongoDB**
+
+- 📋 Job posting and application tracking
+- 👔 Recruiter dashboard with candidate management
+- 🔎 Advanced search and filter options
+- 📧 Email notifications for job updates
+
+---
+
+<div align="center">
+
+### 📱 Real Estate Mobile App
+**React Native Application**
+
+</div>
+
+Cross-platform mobile app built with **React Native**
+
+- 🏠 Property listings with detailed information
+- 🗺️ Interactive maps for property locations
+- ❤️ Favorites and saved searches
+- 📞 Direct contact with property owners
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 DSA Progress
+
+<div align="center">
+
+### 500+ Problems Solved 🔥
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/Rosie_posie/)
+
+**Platforms:**  
+🟧 LeetCode | 🟦 CodeChef | 🟩 GeeksforGeeks
+
+</div>
+
+---
+
+## 💡 What I'm Currently Learning
+
+- 🤖 Advanced AI/ML integration in web applications
+- 🏗️ Microservices architecture and scalability patterns
+- 📱 Advanced React Native development
+- ☁️ Cloud services (AWS/Azure)
+- 🔐 Advanced authentication and security practices
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessykaluri@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"I don't just code — I create experiences that connect users and ideas."*
+
+**Building with purpose | Learning with curiosity | Improving every single day** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=for-the-badge)
+
+</div>
