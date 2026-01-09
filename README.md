@@ -99,11 +99,12 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 
 ## 📊 GitHub & DSA Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical&hide_border=true)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark\&font=source_code_pro\&ext=heatmap)](https://leetcode.com/Rosie_posie/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/Rosie_posie/)
+
 
 ---
 
