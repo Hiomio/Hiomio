@@ -72,8 +72,7 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 
 ### 📸 Snapora — *Social Media Platform*
 
-🔗 *(Add live link if deployed)*
-🔗 *(Add GitHub repo link if public)*
+🔗 [https://prepby-ai.vercel.app/](https://prepby-ai.vercel.app/)
 
 * Instagram-like social media application with posts, likes, comments & user profiles
 * Secure authentication using **JWT & Google OAuth**
