@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer | 🎓 CSE Graduate | 🚀 MERN Stack Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/kaluri-himabindhu-9378b927a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hima-portfolio-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:blessykaluri@gmail.com)
@@ -54,6 +54,7 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
 ---
 
@@ -67,6 +68,22 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 * Performance analytics & personalized feedback
 * Built with **Next.js, Gemini AI, Firebase, TailwindCSS**
 
+---
+
+### 📸 Snapora — *Social Media Platform*
+
+🔗 *(Add live link if deployed)*
+🔗 *(Add GitHub repo link if public)*
+
+* Instagram-like social media application with posts, likes, comments & user profiles
+* Secure authentication using **JWT & Google OAuth**
+* **Image upload and media management powered by Cloudinary**
+* Real-time feed updates and seamless user interactions
+* Built with **React, Node.js, Express, MongoDB, TailwindCSS**
+* Designed scalable REST APIs and optimized frontend performance
+
+---
+
 ### 🛒 BuyHive — *E‑Commerce Platform*
 
 🔗 [https://buyhub-pi.vercel.app/](https://buyhub-pi.vercel.app/)
@@ -75,12 +92,16 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 * Admin dashboard & order management
 * MERN stack based full‑stack system
 
+---
+
 ### 📝 BlogSphere — *Blogging Platform*
 
 🔗 [https://blog-chi-three-26.vercel.app/](https://blog-chi-three-26.vercel.app/)
 
-* Rich text editor & Firebase auth
+* Rich text editor & Firebase authentication
 * Redux-powered state management
+
+---
 
 ### 🎬 FilmGalaxy — *Movie Discovery App*
 
@@ -89,13 +110,14 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 * TMDB API integration
 * Reviews, ratings & recommendations
 
+---
+
 ### 📱 Real Estate App — *React Native*
 
 * Property listings with maps & favorites
 * Cross‑platform mobile experience
 
 ---
-
 
 ## 📊 GitHub & DSA Stats
 
@@ -109,7 +131,7 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiomio&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/Rosie_posie/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark\&font=source_code_pro\&ext=heatmap)](https://leetcode.com/Rosie_posie/)
 
 </div>
 
@@ -117,9 +139,9 @@ I’m a **Full Stack Developer** and **2025 CSE graduate from IIIT Bhagalpur**, 
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/kaluri-himabindhu-9378b927a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://hima-portfolio-eight.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:blessykaluri@gmail.com)
 
 ---
 
