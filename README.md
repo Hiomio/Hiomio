@@ -97,6 +97,10 @@ Git, GitHub, Postman, Cloudinary, Vercel
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiomio&theme=radical" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=true" />
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Rosie_posie?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/Rosie_posie/)
 
 </div>
