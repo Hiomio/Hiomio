@@ -4,7 +4,8 @@
 
 # 👋 Kaluri Himabindhu
 
-### Full-Stack Software Engineer (React, Next.js, Node.js)
+### Full-Stack Software Engineer  
+### (React, Next.js, Node.js) | Agentic AI & AI-Powered Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/kaluri-himabindhu-9378b927a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
