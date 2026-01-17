@@ -93,17 +93,12 @@ Git, GitHub, Postman, Cloudinary, Vercel
 
 ## 📊 My GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiomio&show_icons=true)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiomio&theme=radical" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiomio&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiomio&show_icons=true&theme=radical&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiomio)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiomio&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=hiomio&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
