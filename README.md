@@ -5,10 +5,10 @@
 # 👋 Kaluri Himabindhu
 
 ### Full-Stack Software Engineer  
-### (React, Next.js, Node.js) | Agentic AI & AI-Powered Systems
+**React • Next.js • Node.js • Agentic AI Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/kaluri-himabindhu-9378b927a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaluri-himabindhu-9378b927a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hima-portfolio-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessykaluri@gmail.com)
 
@@ -18,80 +18,76 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Software Engineer with hands-on experience building
-production-ready web applications using **React, Next.js, Node.js,
-Express, and MongoDB**.
+I’m a **Full-Stack Software Engineer** who enjoys building **production-ready web applications** and scalable systems.
 
-- Built and shipped multiple full-stack products used in real scenarios
-- Strong foundation in **Data Structures & Competitive Programming**
-- Interested in scalable backend systems and frontend architecture
+- Hands-on experience with **React, Next.js, Node.js, Express, MongoDB**
+- Strong problem-solving background with **Data Structures & Competitive Programming**
+- Interested in **backend architecture, system design, and AI-powered products**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**  
-React, Next.js, TypeScript, JavaScript, Tailwind CSS
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
 **Backend**  
-Node.js, Express.js, MongoDB, Firebase
+Node.js · Express.js · MongoDB · Firebase
 
 **Tools & Platforms**  
-Git, GitHub, Postman, Cloudinary, Vercel
+Git · GitHub · Postman · Cloudinary · Vercel
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📸 Snapora — Full-Stack Social Media Platform
+### 📸 Snapora — Social Media Platform (MERN)
 🔗 https://snapora-frontend.vercel.app/
 
-- Designed and built scalable REST APIs using Node.js & Express
-- Implemented JWT-based authentication with Google OAuth
-- Integrated Cloudinary for optimized image uploads and CDN delivery
-- Added pagination and infinite scrolling for large feeds
-- Focused on clean frontend architecture using React & Tailwind CSS
+- Built scalable REST APIs using **Node.js & Express**
+- Implemented **JWT authentication** with Google OAuth
+- Integrated **Cloudinary** for optimized media uploads
+- Added pagination & infinite scrolling for large feeds
+- Focused on clean, maintainable frontend architecture
 
 ---
 
 ### 🤖 PrepByAI — AI-Powered Interview Platform
 🔗 https://prepby-ai.vercel.app/
 
-- Built real-time mock interviews using AI voice agents
-- Designed backend APIs for interview sessions and performance analytics
-- Implemented secure authentication and input validation
-- Tech stack: Next.js, Gemini AI, Firebase, Tailwind CSS
+- Built real-time mock interviews using **AI voice agents**
+- Designed APIs for interview sessions & performance analytics
+- Implemented secure authentication & input validation
+- **Tech:** Next.js · Gemini AI · Firebase · Tailwind CSS
 
 ---
 
 ### 🛒 BuyHive — E-Commerce Platform
 🔗 https://buyhub-pi.vercel.app/
 
-- Implemented JWT authentication and Razorpay payment integration
-- Built admin dashboard for order and product management
-- Developed end-to-end MERN stack architecture
+- Implemented **JWT authentication** and **Razorpay payments**
+- Built admin dashboard for product & order management
+- Developed complete **end-to-end MERN architecture**
 
 ---
 
 ## 🧠 Backend & System Design Highlights
 
-- REST API design with validation and centralized error handling
-- JWT authentication and protected routes
+- REST API design with validation & centralized error handling
+- JWT-based authentication & protected routes
 - Pagination and filtering for large datasets
 - Media optimization using Cloudinary
-- Currently adding **Redis caching** and **API rate limiting**
+- Currently exploring **Redis caching** & **API rate limiting**
 
 ---
 
 ## 🏆 Competitive Programming
 
-- LeetCode **Knight** (Top ~4%)
-- Codeforces **Specialist**
+- 🟧 **LeetCode Knight** (Top ~4%)
+- 🟦 **Codeforces Specialist**
 - Solved **1000+ DSA problems** across platforms
 
 ---
-
-## 📊 My GitHub Stats
 
 ## 📊 GitHub Overview
 
@@ -105,6 +101,5 @@ Git, GitHub, Postman, Cloudinary, Vercel
 ## 📬 Contact
 
 - 📧 Email: blessykaluri@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/  
+- 💼 LinkedIn: https://linkedin.com/in/kaluri-himabindhu-9378b927a  
 - 🌐 Portfolio: https://hima-portfolio-eight.vercel.app/
-
