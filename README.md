@@ -95,16 +95,15 @@ Git, GitHub, Postman, Cloudinary, Vercel
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiomio&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiomio&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hiomio&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hiomio&show_icons=true&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiomio&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiomio&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Hiomio&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hiomio&theme=radical&hide_border=true" />
 
 </div>
-
 
 ---
 
