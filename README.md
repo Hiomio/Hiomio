@@ -93,12 +93,12 @@ Git, GitHub, Postman, Cloudinary, Vercel
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiomio&show_icons=true)
+## 📊 GitHub Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiomio&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiomio)
-
+![Repos](https://img.shields.io/badge/Repositories-37-blue)
+![Stars](https://img.shields.io/badge/Stars-52-yellow)
+![Commits](https://img.shields.io/badge/Commits-1000%2B-brightgreen)
+![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange)
 
 ---
 
