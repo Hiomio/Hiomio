@@ -91,13 +91,16 @@ Git · GitHub · Postman · Cloudinary · Vercel
 
 ## 📊 GitHub Overview
 
-[![Repositories](https://img.shields.io/badge/Repositories-37-blue)](https://github.com/Hiomio?tab=repositories)
-[![Stars](https://img.shields.io/badge/Stars-52-yellow)](https://github.com/Hiomio?tab=stars)
-[![Commits](https://img.shields.io/badge/Commits-1000%2B-brightgreen)](https://github.com/Hiomio)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange)](https://leetcode.com/u/Rosie_posie/)
+<div align="center">
+
+| GitHub | Activity | Competitive |
+|------|----------|-------------|
+| [![Repos](https://img.shields.io/badge/Repositories-37-blue)](https://github.com/Hiomio?tab=repositories) | [![Commits](https://img.shields.io/badge/Commits-1000%2B-brightgreen)](https://github.com/Hiomio) | [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange)](https://leetcode.com/u/Rosie_posie/) |
+| [![Stars](https://img.shields.io/badge/Stars-52-yellow)](https://github.com/Hiomio?tab=stars) | [![Active](https://img.shields.io/badge/Status-Active-success)](https://github.com/Hiomio) | [![CF](https://img.shields.io/badge/Codeforces-Specialist-blue)](https://codeforces.com/) |
+
+</div>
 
 ---
-
 
 ## 📬 Contact
 
