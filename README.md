@@ -91,12 +91,13 @@ Git · GitHub · Postman · Cloudinary · Vercel
 
 ## 📊 GitHub Overview
 
-![Repos](https://img.shields.io/badge/Repositories-37-blue)
-![Stars](https://img.shields.io/badge/Stars-52-yellow)
-![Commits](https://img.shields.io/badge/Commits-1000%2B-brightgreen)
-![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange)
+[![Repositories](https://img.shields.io/badge/Repositories-37-blue)](https://github.com/Hiomio?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-52-yellow)](https://github.com/Hiomio?tab=stars)
+[![Commits](https://img.shields.io/badge/Commits-1000%2B-brightgreen)](https://github.com/Hiomio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange)](https://leetcode.com/u/Rosie_posie/)
 
 ---
+
 
 ## 📬 Contact
 
