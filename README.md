@@ -47,11 +47,12 @@ Full-Stack Software Engineer building **scalable web applications and AI-powered
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="30"/>  
 
+
 **AI / LLM / RAG**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="30"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LLaMA_logo.svg" alt="LLaMA" width="30"/> 
 <img src="https://raw.githubusercontent.com/deepseekai/deepseek-brand/main/deepseek-logo.png" alt="DeepSeek-R1" width="30"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Information_retrieval_icon.svg" alt="RAG" width="30"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Information_retrieval_icon.svg" alt="RAG" width="30"/>
 
 **Tools & Platforms**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
