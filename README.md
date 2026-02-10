@@ -18,30 +18,51 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Software Engineer with hands-on experience building production-ready web applications using **React, Next.js, Node.js, Express, and MongoDB**.
+Full-Stack Software Engineer building **scalable web applications and AI-powered systems** using **React, Next.js, Node.js, Express, MongoDB, Flask, and modern LLMs**.  
 
-- 🚀 Built and shipped multiple full-stack products used in real scenarios
-- 💡 Strong foundation in **Data Structures & Competitive Programming**
-- 🎯 Interested in scalable backend systems and frontend architecture
+- 🚀 Delivered **production-ready features** for dashboards, social platforms, and AI apps  
+- 💡 Strong foundation in **Data Structures, Algorithms, and Competitive Programming**  
+- 🤖 Experienced in **AI/LLM integration**: OpenAI, LLaMA, RAG, DeepSeek-R1  
+- 🎯 Passionate about **clean architecture, scalable backend systems, and modern frontend design**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Frontend**  
-React • Next.js • TypeScript • JavaScript • Tailwind CSS • Bootstrap  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30"/>  
 
 **Backend**  
-Node.js • Express.js • Python (Flask) • Java • Spring Boot • MongoDB • Firebase  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="30"/>  
 
 **AI / LLM / RAG**  
-OpenAI • LLaMA • DeepSeek-R1 • RAG (Retrieval-Augmented Generation)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="30"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/LLaMA_logo.svg" alt="LLaMA" width="30"/> 
+<img src="https://raw.githubusercontent.com/deepseekai/deepseek-brand/main/deepseek-logo.png" alt="DeepSeek-R1" width="30"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Information_retrieval_icon.svg" alt="RAG" width="30"/>  
 
 **Tools & Platforms**  
-Git • GitHub • Postman • Cloudinary • Vercel  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" alt="Cloudinary" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="30"/>  
 
 **Other Skills**  
 REST API design • JWT authentication • Data Structures & Algorithms • Competitive Programming
+
 
 ---
 
