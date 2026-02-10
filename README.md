@@ -29,13 +29,19 @@ Full-Stack Software Engineer with hands-on experience building production-ready 
 ## 🛠 Tech Stack
 
 **Frontend**  
-React • Next.js • TypeScript • JavaScript • Tailwind CSS
+React • Next.js • TypeScript • JavaScript • Tailwind CSS • Bootstrap  
 
 **Backend**  
-Node.js • Express.js • MongoDB • Firebase
+Node.js • Express.js • Python (Flask) • Java • Spring Boot • MongoDB • Firebase  
+
+**AI / LLM / RAG**  
+OpenAI • LLaMA • DeepSeek-R1 • RAG (Retrieval-Augmented Generation)  
 
 **Tools & Platforms**  
-Git • GitHub • Postman • Cloudinary • Vercel
+Git • GitHub • Postman • Cloudinary • Vercel  
+
+**Other Skills**  
+REST API design • JWT authentication • Data Structures & Algorithms • Competitive Programming
 
 ---
 
