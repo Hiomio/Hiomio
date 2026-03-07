@@ -124,7 +124,7 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 
 - 📧 **Email:** blessykaluri@gmail.com
 - 💼 **LinkedIn:** [Kaluri Himabindhu](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
-- 🌐 **Portfolio:** [hima-portfolio-eight.vercel.app](https://hima-portfolio-eight.vercel.app/)
+- 🌐 **Portfolio:** [hima-portfolio-eight.vercel.app]()
 
 ---
 
