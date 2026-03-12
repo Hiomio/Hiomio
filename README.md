@@ -80,11 +80,10 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 - Implemented secure authentication and input validation
 - **Tech Stack:** Next.js • Gemini AI • Firebase • Tailwind CSS
 
-### 🛒 [BuyHive](https://buyhub-pi.vercel.app/) — E-Commerce Platform
-
-- Implemented JWT authentication and Razorpay payment integration
-- Built admin dashboard for order and product management
-- Developed end-to-end MERN stack architecture
+### 🛍️ Smart Mart — E-Commerce Platform
+- Built a full-stack e-commerce platform using Java, Spring Boot, Hibernate, and Angular
+- Implemented product catalog, cart, wishlist, and order management system
+- Integrated Google Analytics, payment gateway, and Log4j logging for monitoring and insights
 
 ---
 
