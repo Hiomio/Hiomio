@@ -22,7 +22,7 @@ Full-Stack Software Engineer building **scalable web applications and AI-powered
 
 - 🚀 Delivered **production-ready features** for dashboards, social platforms, and AI apps  
 - 💡 Strong foundation in **Data Structures, Algorithms, and Competitive Programming**  
-- 🤖 Experienced in **AI/LLM integration**: OpenAI, LLaMA, RAG, DeepSeek-R1  
+- 🤖 Currently exploring AI/LLM integration: OpenAI, LLaMA, RAG, DeepSeek-R1
 - 🎯 Passionate about **clean architecture, scalable backend systems, and modern frontend design**
 
 ---
@@ -73,14 +73,14 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 - Added pagination and infinite scrolling for large feeds
 - Focused on clean frontend architecture using React & Tailwind CSS
 
-### 🤖 [PrepByAI](https://prepby-ai.vercel.app/) — AI-Powered Interview Platform
+### 🤖 [PrepApp](https://prepby-ai.vercel.app/) — AI-Powered Interview Platform
 
 - Built real-time mock interviews using AI voice agents
 - Designed backend APIs for interview sessions and performance analytics
 - Implemented secure authentication and input validation
 - **Tech Stack:** Next.js • Gemini AI • Firebase • Tailwind CSS
 
-### 🛍️ Smart Mart — E-Commerce Platform
+### 🛍️ ShopShere — E-Commerce Platform
 - Built a full-stack e-commerce platform using Java, Spring Boot, Hibernate, and Angular
 - Implemented product catalog, cart, wishlist, and order management system
 - Integrated Google Analytics, payment gateway, and Log4j logging for monitoring and insights
