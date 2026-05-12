@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/kaluri-himabindhu-9378b927a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rosie_posie/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himaverse.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessykaluri@gmail.com)
 
 </div>
@@ -22,7 +22,7 @@ Full-Stack Software Engineer building **scalable web applications and AI-powered
 
 - 🚀 Delivered **production-ready features** for dashboards, social platforms, and AI apps  
 - 💡 Strong foundation in **Data Structures, Algorithms, and Competitive Programming**  
-- 🤖 Currently exploring AI/LLM integration: OpenAI, LLaMA, RAG, DeepSeek-R1
+- 🤖 Currently exploring AI/LLM integration: Gemini, LangGraph, LangChain, RAG, ChromaDB
 - 🎯 Passionate about **clean architecture, scalable backend systems, and modern frontend design**
 
 ---
@@ -47,13 +47,14 @@ Full-Stack Software Engineer building **scalable web applications and AI-powered
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="30"/>  
 
-**AI / LLM / RAG**  
-OpenAI • LLaMA • DeepSeek-R1 • RAG (Retrieval-Augmented Generation)
+**AI / LLM / Agentic**  
+Gemini 2.0 Flash • LangGraph • LangChain • ChromaDB • RAG (Retrieval-Augmented Generation) • Tesseract OCR • Together AI
 
 **Tools & Platforms**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" alt="Cloudinary" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="30"/>  
 
@@ -65,6 +66,14 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 
 ## 🚀 Featured Projects
 
+### 🧠 [Aether AI](https://github.com/Hiomio/aether-ai) — Multi-Agent AI Research System
+
+- Architected a multi-agent pipeline orchestrating **6 AI agents** (Planner → Search → Scraper → Summary → Citation → Report), reducing research time by **70%**
+- Implemented **real-time SSE streaming** with LangGraph and LangChain, integrating Gemini 2.0 Flash via Google AI Studio for live agent token generation with **sub-200ms response latency**
+- Built a **RAG pipeline** with ChromaDB and sentence-transformers for semantic search over PDF/DOCX uploads, reducing manual retrieval time by **60%**
+- Configured **Celery and Redis** broker for async document processing with 19 pytest unit tests validated
+- **Tech Stack:** FastAPI • Next.js 15 • LangGraph • LangChain • Gemini 2.0 Flash • ChromaDB • Docker
+
 ### 📸 [Snapora](https://snapora-frontend.vercel.app/) — Full-Stack Social Media Platform
 
 - Designed and built scalable REST APIs using Node.js & Express
@@ -72,13 +81,6 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 - Integrated Cloudinary for optimized image uploads and CDN delivery
 - Added pagination and infinite scrolling for large feeds
 - Focused on clean frontend architecture using React & Tailwind CSS
-
-### 🤖 [PrepApp](https://prepby-ai.vercel.app/) — AI-Powered Interview Platform
-
-- Built real-time mock interviews using AI voice agents
-- Designed backend APIs for interview sessions and performance analytics
-- Implemented secure authentication and input validation
-- **Tech Stack:** Next.js • Gemini AI • Firebase • Tailwind CSS
 
 ### 🛍️ ShopShere — E-Commerce Platform
 - Built a full-stack e-commerce platform using Java, Spring Boot, Hibernate, and Angular
@@ -93,6 +95,7 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 - JWT authentication and protected routes
 - Pagination and filtering for large datasets
 - Media optimization using Cloudinary
+- Agentic AI orchestration with LangGraph and real-time SSE streaming
 - Currently adding **Redis caching** and **API rate limiting**
 
 ---
@@ -123,7 +126,7 @@ REST API design • JWT authentication • Data Structures & Algorithms • Comp
 
 - 📧 **Email:** blessykaluri@gmail.com
 - 💼 **LinkedIn:** [Kaluri Himabindhu](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
-- 🌐 **Portfolio:** [hima-portfolio-eight.vercel.app]()
+- 🌐 **Portfolio:** [himaverse.netlify.app](https://himaverse.netlify.app/)
 
 ---
 
